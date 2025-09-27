@@ -6,7 +6,7 @@ The project focuses on analyzing a Chicago Crime data, cleaning and exploring da
 ---
 
 ## Project Overview
-This project analyzes the Chicago Crimes 2022 dataset, cleaning and exploring the data to uncover insights.
+This project analyzes the Chicago Crimess dataset, cleaning and exploring the data to uncover insights.
 It includes geospatial visualizations and an interactive dashboard for exploring crime hotspots.
 - Cleaning & Exploring the data.
 - Performing EDA with visualizations to uncover insights.
@@ -36,7 +36,7 @@ It includes geospatial visualizations and an interactive dashboard for exploring
 ## Team Members
 - Lama Almoutiry 
 - Reem Alsaif 
-- Mousa Al 
+- Mousa Alatawi
 
 ---
 
