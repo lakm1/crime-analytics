@@ -68,7 +68,7 @@ st.markdown("""
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv("Crimes_-_2022_20250925.csv")
+    df = pd.read_csv("../data/Crimes_raw.csv")
         
     # Convert date column to datetime
     if 'Date' in df.columns:
