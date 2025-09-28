@@ -21,11 +21,6 @@ It includes geospatial visualizations and an interactive dashboard for exploring
 
 ---
 
-## Presentation
-[Project presentation link]()
-
----
-
 ## Project Outcomes
 - Cleaned and structured Chicago crime dataset  . 
 - Interactive maps for crime patterns  
@@ -40,10 +35,5 @@ It includes geospatial visualizations and an interactive dashboard for exploring
 
 ---
 
-## Dashboard
-[Streamlit dashboard link]()
-
----
-
 ## References
-- [Chicago Crimes 2022 Dataset](https://data.cityofchicago.org/Public-Safety/Crimes-2022/9hwr-2zxp)
+- [Chicago Crimes 2022 Dataset](https://data.cityofchicago.org/Public-Safety/Crimes-2022/9hwr-2zxp/about_data)
